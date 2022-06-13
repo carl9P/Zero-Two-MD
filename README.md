@@ -5,40 +5,24 @@
 
 <p align="center"> 
   A Moduler WhatsApp Bot designed for both PM and Groups - To take your boring WhatsApp usage into a whole different level.
-
-<p align="center">
-  <a href="https://github.com/Sampandey001/ZERO-TWO-MD/fork">
-    
-    
-    
-  <a href="https://github.com/Sampandey001/Zero-Two-Md/stargazers">
-    <img src="https://img.shields.io/github/stars/Sampandey001/Zero-Two-Md/?style=social">
-  </a>
-
-<p align="center">
-  <a href="httsp://github.com/Sampandey001/Zero-Two-Md">
-    <img src="https://img.shields.io/github/repo-size/Sampandey001/Zero-Two-Md?color=purple&label=Repo%20Size&style=plastic <p align="center">
-
+  
 ## Thanks for Everything 
 - [XEON](https://github.com/dgxeon)
 
 ![Total Repo views](https://gpvc.arturio.dev/sampandey001)
-
-
- ### Simple Method 
                                                                                                                                              
-#### How to Get QR
-- Go on given Link
-- Click on Play/Run code
-- Scan Qr Code
-- Click on Show Files and Download your session.sam.json
-- Delete Session.sam.json from there coz it can give your whatsapp access to other
--Thanks and Enjoy
-- Example 
+### How to enable Zero-Two On your number
+- 1 First Open `Github Link Of Zero Two`
+- 2 Click on Fork Button upwards right corner
+- 3 Click on deploy button and have patience,process may take upto 10 min
+- `Open Heroku` > choose app > Resources > Tap on Pencil and Turn on Dynos
+- Wait 12 second and Tap on `Open App`
+- Scan Qr and your bot is working now
+- type -json and you'll get your session.sam.json text
+- Go in your forked repo create file with name session.sam.json and paste it there
+- Connect Your app with GitHub and deploy branch and it's `Done`.
 
-[A SCREENSHOT OF session.sam.json](https://user-images.githubusercontent.com/104565822/172769909-a780236b-ac09-4ccf-acb6-0e120266ea65.png)
-                                                                                                                                             
-[![Run on Repl.it](https://repl.it/badge/github/SamPandey001/ZERO-TWO-MD)](https://replit.com/@sampandey/Zero-Two-Md?v=1)
+- `Thank me later.`
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Sampandey001/Zero-Two-Md)
 
@@ -46,17 +30,9 @@
 
 <a href="https://chat.whatsapp.com/KK6AVKEwPVJ0aXoWo2cK2g"><img src="https://img.shields.io/badge/Join Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 
+## This bot is mainly created on prefix - if you change this buttons will not work
 
-
-### Guide
-> [Zero Two Wiki (Full Guide)](https://github.com/SamPandey001/Zero-Two-MD/wiki/ZERO-TWO) 
-
-### EXAMPLE
-
-
-[BOT COMMAND EXAMPLE](https://user-images.githubusercontent.com/104565822/172600030-60ec3c0a-dae2-4c8b-9e82-ca98b6216d91.jpg)
-
-### List of Commands Available in Zero Two
+# List of Commands Available in Zero Two
   <details>
   <summary>List (Touch Here)</summary>
 <p>
