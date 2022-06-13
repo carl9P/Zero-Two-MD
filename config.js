@@ -29,7 +29,7 @@ var _0x39a629=_0x3707;(function(_0x3558fb,_0x2f8f90){var _0x560da3=_0x3707,_0x31
 global.ytname = "YT: Fantox Gaming"
 global.port = process.env.PORT || 5000
 global.location = "India, West-Bengal, Kolkata"
-global.botscript = "https://github.com/SamPandey001/Zero-Two-Md"
+global.botscript = "Hahahaha 🤡"
 global.antitags = true
 global.rkyt = []
 global.banUser = []
@@ -52,7 +52,7 @@ global.watermark = "ENJOY WITH ZERO TWO"
 global.dogeemoji = "✨"
 global.botname = 'Zero-Two'
 global.ownernma = '©Carl' //owner name
-global.ownername = 'Carl' //owner name
+global.ownername = '©Carl' //owner name
 global.packname = 'Zero-Two' //sticker package name
 global.author = 'Kurisu bot 🍁' //sticker author name
 global.sessionName = 'session.sam' //session name
